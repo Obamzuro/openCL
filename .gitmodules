@@ -1,0 +1,6 @@
+[submodule "libft"]
+	path = libft
+	url = ./libft
+[submodule "fprintf"]
+	path = fprintf
+	url = ./fprintf
